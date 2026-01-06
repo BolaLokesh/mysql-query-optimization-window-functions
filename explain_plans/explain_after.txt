@@ -1,0 +1,4 @@
+- Single table scan
+- Index utilization
+- Reduced cost
+- Improved scalability
