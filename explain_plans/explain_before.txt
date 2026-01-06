@@ -1,0 +1,4 @@
+- Dependent subquery
+- Full table scan on orders
+- High cost
+- Poor scalability
